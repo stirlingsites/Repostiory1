@@ -1,3 +1,3 @@
 # Repostiory1
 
-![screenshot](Walkthrough2.png)
+![screenshot](https://github.com/stirlingsites/Repostiory1/blob/main/Walkthrough2SS.jpg)
